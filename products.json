@@ -2,309 +2,294 @@
   {
     "id": 1,
     "name_en": "ALBUMIN",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ألبومين",
+    "image": "assets/images/albumin.jpg",
     "pdf": "assets/IFU/IFU/1-ALBUMIN Rev.7.pdf"
   },
   {
     "id": 2,
     "name_en": "CALCIUM AIII",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "كالسيوم اورزيناتو",
+    "image": "assets/images/CalciumAzz.jpg",
     "pdf": "assets/IFU/IFU/2-CALCIUM AIII Rev.8.pdf"
   },
   {
     "id": 3,
     "name_en": "CALCIUM OC",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "كالسيوم او سي",
+    "image": "assets/images/calciumoc1.jpg",
     "pdf": "assets/IFU/IFU/3-CALCIUM OC Rev.7.pdf"
   },
   {
     "id": 4,
     "name_en": "CHOLESTEROL-LS",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "كوليسترول",
+    "image": "assets/images/cholectrol.jpg",
     "pdf": "assets/IFU/IFU/4- CHOLESTEROL-LS Rev.6.pdf"
   },
   {
     "id": 5,
     "name_en": "HDLc",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "اتش دي ال سي",
+    "image": "assets/images/hdl1.jpg",
     "pdf": "assets/IFU/IFU/5-HDLc Rev.7.pdf"
   },
   {
     "id": 6,
     "name_en": "HDLc-D",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "اتش دي ال سي دي ديركت",
+    "image": "assets/images/HDLc-D1.jpg",
     "pdf": "assets/IFU/IFU/6-HDLc-D Rev.9.pdf"
   },
   {
     "id": 7,
     "name_en": "CREATININE-J",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "كرياتينين",
+    "image": "assets/images/creatinine.jpg",
     "pdf": "assets/IFU/IFU/7-CREATININE-J Rev.10.pdf"
   },
   {
     "id": 8,
     "name_en": "GLUCOSE LS",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "جلوكوز",
+    "image": "assets/images/glucose1.jpg",
     "pdf": "assets/IFU/IFU/8-GLUCOSE LS Rev.6.pdf"
   },
   {
     "id": 10,
     "name_en": "IRON FZ LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "حديد",
+    "image": "assets/images/iron.png",
     "pdf": "assets/IFU/IFU/10-IRON FZ LQ Rev.1.pdf"
   },
   {
     "id": 11,
     "name_en": "TIBC",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "تي اي بي سي",
+    "image": "assets/images/tibc.png",
     "pdf": "assets/IFU/IFU/11-TIBC Rev.5.pdf"
   },
   {
     "id": 12,
     "name_en": "MAGNESIUM",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ماغنسيوم",
+    "image": "assets/images/magesium.jpg",
     "pdf": "assets/IFU/IFU/12-MAGNESIUM Rev.5.pdf"
   },
   {
     "id": 13,
     "name_en": "PHOSPHORUS UV",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "فوسفور",
+    "image": "assets/images/phosohore.jpg",
     "pdf": "assets/IFU/IFU/13-PHOSPHORUS UV Rev.5..pdf"
-  },
-  {
-    "id": 14,
-    "name_en": "TOTAL PROTEIN",
-    "name_ar": "",
-    "image": "",
-    "pdf": "assets/IFU/IFU/14-TOTAL PROTEIN Rev.9.pdf"
   },
   {
     "id": 15,
     "name_en": "TRIGLYCERIDES LS",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "تراي جليسرايد",
+    "image": "assets/images/triglycerids.jpg",
     "pdf": "assets/IFU/IFU/15-TRIGLYCERIDES LS Rev.9.pdf"
   },
   {
     "id": 16,
     "name_en": "UREA UV-LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "يوريا",
+    "image": "assets/images/urea.jpg",
     "pdf": "assets/IFU/IFU/16-UREA UV-LQ Rev.7.pdf"
   },
   {
     "id": 17,
     "name_en": "URIC ACID-LS",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "يوريك اسيد",
+    "image": "assets/images/uric-acid.jpg",
     "pdf": "assets/IFU/IFU/17-URIC ACID-LS Rev.6.pdf"
-  },
-  {
-    "id": 18,
-    "name_en": "COPPER",
-    "name_ar": "",
-    "image": "",
-    "pdf": "assets/IFU/IFU/18-COPPER Rev.7.pdf"
-  },
-  {
-    "id": 19,
-    "name_en": "ZINC",
-    "name_ar": "",
-    "image": "",
-    "pdf": "assets/IFU/IFU/19-ZINC Rev.3.pdf"
   },
   {
     "id": 20,
     "name_en": "ALP-LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "الكالين فوسفاتيز",
+    "image": "assets/images/alp1.jpg",
     "pdf": "assets/IFU/IFU/20- ALP-LQ Rev.6.pdf"
   },
   {
     "id": 21,
     "name_en": "AMYLASE-LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "أميليز",
+    "image": "assets/images/amylase1.jpg",
     "pdf": "assets/IFU/IFU/21-AMYLASE-LQ Rev.5.pdf"
   },
   {
     "id": 22,
     "name_en": "CK-NAC LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي كي ان اي سي",
+    "image": "assets/images/ckNac.jpg",
     "pdf": "assets/IFU/IFU/22-CK-NAC LQ Rev.9.pdf"
   },
   {
     "id": 23,
     "name_en": "CK-MB-LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي كي ام بي",
+    "image": "assets/images/ckmb.png",
     "pdf": "assets/IFU/IFU/23-CK-MB-LQ Rev.6.pdf"
   },
   {
     "id": 24,
     "name_en": "GAMMA-GT LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "جاما-جي تي",
+    "image": "assets/images/gamma.jpg",
     "pdf": "assets/IFU/IFU/24-GAMMA-GT LQ Rev.7.pdf"
   },
   {
     "id": 25,
     "name_en": "GOT-AST LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "جى او اس تى",
+    "image": "assets/images/got1.jpg",
     "pdf": "assets/IFU/IFU/25-GOT-AST LQ  Rev.6.pdf"
   },
   {
     "id": 27,
     "name_en": "GPT-ALT LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "جى بى تى",
+    "image": "assets/images/gpt1.jpg",
     "pdf": "assets/IFU/IFU/27-GPT-ALT LQ Rev.4.pdf"
   },
   {
     "id": 29,
     "name_en": "LDH-LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ال دى اتش",
+    "image": "assets/images/ldh.jpg",
     "pdf": "assets/IFU/IFU/29-LDH-LQ Rev.6.pdf"
   },
   {
     "id": 31,
     "name_en": "LIPASE-LQ",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "لايبز",
+    "image": "assets/images/lipase.png",
     "pdf": "assets/IFU/IFU/31-LIPASE-LQ Rev.6.pdf"
-  },
-  {
-    "id": 32,
-    "name_en": "LABTROL H N-P CE",
-    "name_ar": "",
-    "image": "",
-    "pdf": "assets/IFU/IFU/32- LABTROL H N-P  CE Rev.5.pdf"
   },
   {
     "id": 34,
     "name_en": "ASO LATEX",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ايه اس اوه لاتكس",
+    "image": "assets/images/asolatex.jpeg",
     "pdf": "assets/IFU/IFU/34-ASO LATEX Rev.6.pdf"
   },
   {
     "id": 35,
     "name_en": "CRP LATEX",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي ار بي لاتكس",
+    "image": "assets/images/CRP-latex-Reagent100TGPL.png",
     "pdf": "assets/IFU/IFU/35-CRP LATEX - Rev.6.pdf"
   },
   {
     "id": 36,
     "name_en": "RF LATEX",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ار اف لاتكس",
+    "image": "assets/images/RF-LatexReagent100TGPL.png",
     "pdf": "assets/IFU/IFU/36-RF LATEX Rev.9.pdf"
   },
   {
     "id": 37,
     "name_en": "BACTERIAL ANTIGENS",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "فيدال جروب ",
+    "image": "assets/images/widalGroup.jpg",
     "pdf": "assets/IFU/IFU/37-I BACTERIAL ANTIGENS Rev.7.pdf"
   },
   {
     "id": 44,
     "name_en": "ASO TURBI 4+1",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ايه اس اوه تربي",
+    "image": "assets/images/ASO-Turbi-50ml-100TGPL.png",
     "pdf": "assets/IFU/IFU/44-ASO TURBI 4+1 Rev.5.pdf"
   },
   {
     "id": 45,
     "name_en": "RF TURBI 4+1",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "ار اف تربي",
+    "image": "assets/images/RF-Turbi50ml-100TGPL.png",
     "pdf": "assets/IFU/IFU/45-RF TURBI 4+1 Rev.5.pdf"
   },
   {
     "id": 46,
     "name_en": "CRP TURBI 4+1",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي ار بي تربي",
+    "image": "assets/images/CRP-Turbi50ml-100TGPL.png",
     "pdf": "assets/IFU/IFU/46-CRP TURBI 4+1 Rev.8.pdf"
-  },
-  {
-    "id": 47,
-    "name_en": "FERRITINA",
-    "name_ar": "",
-    "image": "",
-    "pdf": "assets/IFU/IFU/47-FERRITINA Rev.4.pdf"
   },
   {
     "id": 49,
     "name_en": "MICROALB TURBI",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "مايكرو البومين تربي",
+    "image": "assets/images/microalbumin.png",
     "pdf": "assets/IFU/IFU/49-MICROALB TURBI Rev.8.pdf"
   },
   {
     "id": 50,
     "name_en": "C3",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي 3",
+    "image": "assets/images/c3.png",
     "pdf": "assets/IFU/IFU/50-C3  Rev.7.pdf"
   },
   {
     "id": 51,
     "name_en": "C4",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي 4",
+    "image": "assets/images/c4.png",
     "pdf": "assets/IFU/IFU/51-C4 Rev.5.pdf"
   },
   {
     "id": 52,
     "name_en": "IgA",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "اي جي ايه",
+    "image": "assets/images/Iga.jpg",
     "pdf": "assets/IFU/IFU/52- IgA  Rev.7.pdf"
   },
   {
     "id": 53,
     "name_en": "IgG",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "اي جي جي",
+    "image": "assets/images/Iga.jpg",
     "pdf": "assets/IFU/IFU/53-IgG  Rev.6.pdf"
   },
   {
     "id": 54,
     "name_en": "IgM",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "اي جي ام",
+    "image": "assets/images/Iga.jpg",
     "pdf": "assets/IFU/IFU/54-IgM Rev.4.pdf"
   },
   {
     "id": 56,
     "name_en": "PROT-CAL",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "كالبريشن",
+    "image": "assets/images/PROT-CAL.png",
     "pdf": "assets/IFU/IFU/56-PROT-CAL Rev.3.pdf"
   },
   {
     "id": 57,
     "name_en": "CK-MB CONTROL",
-    "name_ar": "",
-    "image": "",
+    "name_ar": "سي كي ام بي كنترول",
+    "image": "assets/images/ckmbcontrol.webp",
     "pdf": "assets/IFU/IFU/CK-MB CONTROL Rev.4.pdf"
+  },
+  {
+    "id": 58,
+    "name_en": "BILIRUBIN TOTAL & DIRECT",
+    "name_ar": "بيليروبين توتال",
+    "image": "assets/images/BILIRUBINTOTAL.jpg",
+    "pdf": "assets/IFU/IFU/58-BILIRUBIN TOTAL Rev.4.pdf"
+  },
+  {
+    "id": 59,
+    "name_en": "GPL – Protein CSF (2×125 ml)",
+    "name_ar": "بروتين سي اس اف",
+    "image": "assets/images/proteinfsu1.png",
+    "pdf": "assets/IFU/IFU/80885-gpl-protein-u&csf.pdf"
+  },{
+    "id": 60,
+    "name_en": "TOTAL PROTEIN",
+    "name_ar": "توتال بروتين",
+    "image": "assets/images/totalprotein.png",
+    "pdf": "assets/IFU/IFU/48779-gpl-total-protein.pdf"
   }
 ]

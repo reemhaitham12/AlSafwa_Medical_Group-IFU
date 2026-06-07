@@ -36,7 +36,7 @@ function renderProducts(productList) {
         
         productList.forEach(product => {
             const imgPath = product.image ? product.image : defaultImage;
-            const displayName = product.name_ar ? `${product.name_en} - ${product.name_ar}` : product.name_en;
+            const displayName = product.name_en;
 
             // Create column element
             const col = document.createElement('div');
@@ -45,8 +45,8 @@ function renderProducts(productList) {
             // Build card HTML
             col.innerHTML = `
                 <div class="card product-card h-100" onclick="goToDetails(${product.id})">
-                    <div class="product-img-wrapper" style="text-align:center; padding: 20px;">
-                        <img src="${imgPath}" alt="${product.name_en}" loading="lazy" style="max-height:150px; object-fit:contain;">
+                    <div class="product-img-wrapper">
+                        <img src="${imgPath}" alt="${product.name_en}" loading="lazy">
                     </div>
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title text-center mb-4" style="min-height: 48px; font-weight:700;">${displayName}</h5>
@@ -76,10 +76,11 @@ function setupSearch() {
     searchInput.addEventListener('input', (e) => {
         const query = e.target.value.toLowerCase().trim();
         const filteredProducts = products.filter(p => {
-            // Search in both English and Arabic names
+            // Search in both English, Arabic names, and optional keywords
             const matchEn = p.name_en.toLowerCase().includes(query);
             const matchAr = p.name_ar.toLowerCase().includes(query);
-            return matchEn || matchAr;
+            const matchKeywords = p.keywords ? p.keywords.toLowerCase().includes(query) : false;
+            return matchEn || matchAr || matchKeywords;
         });
         renderProducts(filteredProducts);
     });

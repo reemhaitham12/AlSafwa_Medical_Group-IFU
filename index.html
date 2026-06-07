@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,21 +15,26 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
+
 <body>
     <!-- Navbar with Search -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top glassmorphism-nav">
         <div class="container">
             <a class="navbar-brand fw-bold" href="index.html">
-                <i class="bi bi-box-seam text-primary me-2"></i>AlSafwa Catalog
+                <img src="assets/images/logo.jpg" alt="AlSafwa Medical Group" class="me-2" style="height: 40px;">AlSafwa
+                Medical Group
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarContent">
-                <form class="d-flex ms-auto w-100 mt-3 mt-lg-0" style="max-width: 400px;" onsubmit="event.preventDefault();">
+                <form class="d-flex ms-auto w-100 mt-3 mt-lg-0" style="max-width: 400px;"
+                    onsubmit="event.preventDefault();">
                     <div class="input-group">
                         <span class="input-group-text bg-white border-end-0"><i class="bi bi-search"></i></span>
-                        <input class="form-control border-start-0 ps-0 shadow-none" type="search" id="searchInput" placeholder="Search products by name..." aria-label="Search">
+                        <input class="form-control border-start-0 ps-0 shadow-none" type="search" id="searchInput"
+                            placeholder="Search products by name..." aria-label="Search">
                     </div>
                 </form>
             </div>
@@ -38,18 +44,22 @@
     <!-- Main Content -->
     <main class="container my-5">
         <div class="text-center mb-5">
-            <h1 class="display-4 fw-bold text-gradient">Discover Our Products</h1>
-            <p class="lead text-muted">Explore our premium collection of innovative tools and devices.</p>
+            <h1 class="display-4 fw-bold text-primary">Discover Our Products</h1>
+            <p class="lead text-muted">Discover a premium range of innovative medical and lab solutions designed for
+                accuracy and performance.</p>
         </div>
 
         <!-- Toast Notification for Share Success -->
         <div class="toast-container position-fixed bottom-0 end-0 p-3" style="z-index: 1055;">
-            <div id="shareToast" class="toast align-items-center text-bg-success border-0 shadow-lg" role="alert" aria-live="assertive" aria-atomic="true">
+            <div id="shareToast" class="toast align-items-center text-bg-success border-0 shadow-lg" role="alert"
+                aria-live="assertive" aria-atomic="true">
                 <div class="d-flex">
                     <div class="toast-body fw-medium">
-                        <i class="bi bi-check-circle-fill me-2"></i><span id="toastMessage">Product shared successfully!</span>
+                        <i class="bi bi-check-circle-fill me-2"></i><span id="toastMessage">Product shared
+                            successfully!</span>
                     </div>
-                    <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+                    <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
+                        aria-label="Close"></button>
                 </div>
             </div>
         </div>
@@ -72,4 +82,5 @@
     <!-- Custom Logic -->
     <script src="script.js"></script>
 </body>
+
 </html>
